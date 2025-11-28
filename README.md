@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 WeStudyNow is a lightweight multi-agent system that converts UPSC Anthropology PDFs into summaries, flashcards, and Q/A using a coordinated agent pipeline with memory, tools, logging, and evaluation.
 
 1) Multi-Agent Architecture
@@ -69,3 +71,6 @@ Simple interface to:
 
 WeStudyNow transforms Anthropology PDFs into structured learning materials automatically.
 Built using multi-agent principles from the Agents Intensive course.
+
+---
+© 2025 Srishti M — Released under the MIT License.
