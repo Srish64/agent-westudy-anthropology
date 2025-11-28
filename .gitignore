@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+output/
+/kaggle/working/
+/.env
+*.log
+*.pth
+*.safetensors
+*.ckpt
