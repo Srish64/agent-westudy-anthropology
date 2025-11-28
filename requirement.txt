@@ -1,1 +1,8 @@
-Hi
+pdfplumber
+sentence-transformers
+transformers
+torch
+scikit-learn
+numpy
+pillow
+gradio==4.44.0
